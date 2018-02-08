@@ -1,0 +1,6 @@
+{
+ "backend": "spacy_sklearn",
+ "path": "./",
+ "data": "./data/nlu.md"
+ "num_threads":100
+}
